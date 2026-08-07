@@ -1,0 +1,27 @@
+pustaka-blater/
+│
+├── index.html
+├── kitab.html
+├── detail-kitab.html
+├── digital-printing.html
+├── merchandise.html
+├── jasa-desain.html
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   ├── app.js
+│   │   ├── slider.js
+│   │   └── search.js
+│   ├── img/
+│   │   ├── banner/
+│   │   ├── kitab/
+│   │   ├── merchandise/
+│   │   ├── printing/
+│   │   └── icon/
+│   └── fonts/
+│
+├── favicon.ico
+├── README.md
+└── LICENSE
